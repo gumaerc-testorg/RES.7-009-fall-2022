@@ -15,7 +15,7 @@ Here is a quick summary of who this module is for, what it contains, how to enga
 **How:** You have three options for using this material.
 
 1. Explore the module at your own pace, guided by the topics that interest you most. We understand that not everyone wants to or has time to engage in all aspects of the course. 
-2. Facilitate a blended workshop using the online module. Follow the Facilitation Guide \[link PDF here\] and Appendix file (link zip file here) to learn how to lead participants through in-person and online activities that will build their inclusive teaching skills. 
+2. Facilitate a blended workshop using the online module. Follow the {{% resource_link "908a3ff7-5baa-4dea-aea8-01f0fc86e1aa" "Facilitation Guide (PDF)" %}} and {{% resource_link "06280655-3b6b-4b9e-95eb-5f66f34fea33" "Appendix file (ZIP)" %}} to learn how to lead participants through in-person and online activities that will build their inclusive teaching skills. 
 3. Participant in a blended workshop. Engage locally in your home institution’s version of this blended workshop. 
 
 **Why:** We believe in the power of open education, active learning, and inclusive teaching. Both the online module and blended workshop go beyond sharing tips or lists on how to teach in an inclusive manner, and promote mindsets and processes for evaluating pedagogical choices. In sharing these resources openly, we hope to encourage more broadly the ability to empathize with students, evaluate instructional choices, and reflect on what inclusive teaching means in various teaching environments.
