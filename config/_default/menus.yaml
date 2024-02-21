@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 1ed11da5-67c3-41f4-b966-367e508c2574
+  name: About
+  pageRef: /pages/about-the-inclusive-teaching-module
+  weight: 10
+- identifier: external-133406650-1696356698721
+  name: Online Module
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+7.InT+2021_Fall/about
+  weight: 20
+- identifier: 1cb50234-fa5e-4efb-a8a3-5b751bd30a9d
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
