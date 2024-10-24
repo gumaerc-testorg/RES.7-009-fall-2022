@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-7-009-7-int-inclusive-teaching-module-fall-2022/mitres_7_009_f22_facilitation_guide_incl_teach.pdf
+file: /ol-ocw-studio-app/courses/res-7-009-7-int-inclusive-teaching-module-fall-2022/mitres_7_009_f22_facilitation_guide_incl_teach.pdf
 file_size: 234886
 file_type: application/pdf
 image_metadata:
