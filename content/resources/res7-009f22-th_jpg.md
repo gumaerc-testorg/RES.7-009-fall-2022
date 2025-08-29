@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/7int-inclusive-teaching-module/res7-009f22-th.jpg
+file: /ol-ocw-studio-app/courses/res-7-009-7-int-inclusive-teaching-module-fall-2022/res7-009f22-th.jpg
 file_size: 15820
 file_type: image/jpeg
 image_metadata:

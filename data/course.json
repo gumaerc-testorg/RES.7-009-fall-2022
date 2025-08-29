@@ -35,12 +35,12 @@
     "website": "7int-inclusive-teaching-module"
   },
   "learning_resource_types": [
-    "Course Introduction",
     "Instructor Insights",
     "Multiple Assignment Types with Solutions",
     "Videos",
     "Readings"
   ],
   "site_uid": "56f17433-928f-47f9-af0c-7ca2ad09ddde",
-  "site_short_id": "RES.7-009-fall-2022"
+  "site_short_id": "RES.7-009-fall-2022",
+  "site_url_path": "courses/res-7-009-7-int-inclusive-teaching-module-fall-2022"
 }
