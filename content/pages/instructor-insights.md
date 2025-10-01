@@ -12,7 +12,7 @@ Below, Dr. Darcy G. Gordon describes various aspects of how and why she and Cath
 
 **OCW:** What is the general approach of the online module?
 
-**Darcy Gordon:** This online module and companion workshop are intended to be used to deepen our own teaching practices. [Deep teaching](https://link.springer.com/article/10.1007/s11422-018-9891-z), an educational approach advocated by Bryan Dewsbury, involves critically reflecting on our identities inside and outside of the classroom, building empathy, making sound pedagogical choices, fostering a healthy learning environment, and leveraging campus resources for holistic support of our students. The Inclusive Teaching Module uses this kind of reflective teaching approach as opposed to prescriptive checklists of dos and don’ts. We take this reflective approach to encourage the development of an internal process for critically examining our pedagogical choices that is applicable to all instructional contexts.
+**Darcy Gordon:** This online module and companion workshop are intended to be used to deepen our own teaching practices. {{% resource_link "24c05d3a-ae94-49b1-90c5-d8dd3eaa2221" "Deep teaching" %}}, an educational approach advocated by Bryan Dewsbury, involves critically reflecting on our identities inside and outside of the classroom, building empathy, making sound pedagogical choices, fostering a healthy learning environment, and leveraging campus resources for holistic support of our students. The Inclusive Teaching Module uses this kind of reflective teaching approach as opposed to prescriptive checklists of dos and don’ts. We take this reflective approach to encourage the development of an internal process for critically examining our pedagogical choices that is applicable to all instructional contexts.
 
 **OCW:** What is the Facilitator’s Guide, and how is it meant to be used?
 
@@ -30,18 +30,18 @@ Below, Dr. Darcy G. Gordon describes various aspects of how and why she and Cath
 
 ## Bibliography
 
-Ballen, C. J., Wieman, C., Salehi, S., Searle, J. B., & Zamudio, K. R. (2017). [Enhancing diversity in undergraduate science: Self-efficacy drives performance gains with active learning.](https://www.lifescied.org/doi/10.1187/cbe.16-12-0344) *CBE—Life Sciences Education*, 16(4), ar56.
+Ballen, C. J., Wieman, C., Salehi, S., Searle, J. B., & Zamudio, K. R. (2017). {{% resource_link "4aa2eaa7-a72e-4a9f-9ceb-ed6c0af049e8" "Enhancing diversity in undergraduate science: Self-efficacy drives performance gains with active learning." %}} *CBE—Life Sciences Education*, 16(4), ar56.
 
-CAST (2018). Universal Design for Learning Guidelines version 2.2. Retrieved from [http://udlguidelines.cast.org](http://udlguidelines.cast.org)
+CAST (2018). Universal Design for Learning Guidelines version 2.2. Retrieved from {{% resource_link "713dea7d-3e3f-417d-9e5a-136ed82382e1" "http://udlguidelines.cast.org" %}}
 
-Cooper, K. M., Haney, B., Krieg, A., & Brownell, S. E. (2017). [What’s in a name? The importance of students perceiving that an instructor knows their names in a high-enrollment biology classroom.](https://www.lifescied.org/doi/10.1187/cbe.16-08-0265) *CBE—Life Sciences Education*, 16(1), ar8.
+Cooper, K. M., Haney, B., Krieg, A., & Brownell, S. E. (2017). {{% resource_link "ef566cdc-c0b8-4979-83a3-e5d6f093df86" "What’s in a name? The importance of students perceiving that an instructor knows their names in a high-enrollment biology classroom." %}} *CBE—Life Sciences Education*, 16(1), ar8.
 
-Dewsbury, B. M. (2019). [Deep teaching in a college STEM classroom.](https://link.springer.com/article/10.1007/s11422-018-9891-z) *Cultural Studies of Science Education,* 15, 169–191.
+Dewsbury, B. M. (2019). {{% resource_link "24c05d3a-ae94-49b1-90c5-d8dd3eaa2221" "Deep teaching in a college STEM classroom." %}} *Cultural Studies of Science Education,* 15, 169–191.
 
 Feldman, J. (2018). *Grading for Equity: What It Is, Why It Matters, and How It Can Transform Schools and Classrooms*. Corwin Press. ISBN: 9781506391571.
 
-Mayer, R. E. (2003). [The promise of multimedia learning: using the same instructional design methods across different media.](https://psycnet.apa.org/record/2003-02362-001) *Learning and Instruction*, 13(2), 125–139.
+Mayer, R. E. (2003). {{% resource_link "ca3dddb3-8bb6-459f-abff-7d854b9276f0" "The promise of multimedia learning: using the same instructional design methods across different media." %}} *Learning and Instruction*, 13(2), 125–139.
 
-Schinske, J. N., Perkins, H., Snyder, A., & Wyer, M. (2016). [Scientist spotlight homework assignments shift students’ stereotypes of scientists and enhance science identity in a diverse introductory science class.](https://www.lifescied.org/doi/10.1187/cbe.16-01-0002) *CBE—Life Sciences Education*, 15(3), ar47.
+Schinske, J. N., Perkins, H., Snyder, A., & Wyer, M. (2016). {{% resource_link "4690a1fb-39ad-49c7-868c-77b3396e2e85" "Scientist spotlight homework assignments shift students’ stereotypes of scientists and enhance science identity in a diverse introductory science class." %}} *CBE—Life Sciences Education*, 15(3), ar47.
 
-Theobald, E. J., Hill, M. J., Tran, E., Agrawal, S., Arroyo, E. N., Behling, S., … & Freeman, S. (2020). [Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering, and math.](https://www.pnas.org/doi/abs/10.1073/pnas.1916903117?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed) *Proceedings of the National Academy of Sciences*, 117(12), 6476–6483.
+Theobald, E. J., Hill, M. J., Tran, E., Agrawal, S., Arroyo, E. N., Behling, S., … & Freeman, S. (2020). {{% resource_link "23dfa8b2-93ec-4c34-b795-ca8306b00207" "Active learning narrows achievement gaps for underrepresented students in undergraduate science, technology, engineering, and math." %}} *Proceedings of the National Academy of Sciences*, 117(12), 6476–6483.
